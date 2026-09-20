@@ -1,14 +1,14 @@
 # Hi, I'm Mohona 👋
 
-I'm a Computer Science student at **Hunter College** (New York, NY) building machine-learning systems, data pipelines and open-source tools. I care about knowing *why* a model does what it does.
+I build **applied AI and ML systems** in New York, NY — LLM applications, models, and the data pipelines and automation behind them. Neuroscience is what got me here, and why I care about knowing *why* a model does what it does.
 
-🌐 **Portfolio:** [myesmin.github.io](https://myesmin.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/myesmin1103/) · ✉️ [myesmin415@gmail.com](mailto:myesmin415@gmail.com)
+🌐 **[myesmin.github.io](https://myesmin.github.io)** — project write-ups, full experience and résumé · 💼 [LinkedIn](https://www.linkedin.com/in/myesmin1103/) · ✉️ [myesmin415@gmail.com](mailto:myesmin415@gmail.com)
 
 ## What I'm up to
 
 - 🔬 **Research Assistant at DAIR Lab:** graph neural networks for protein research
 - ☸️ **Kubeflow org member:** Python and Go contributions to the Model Registry and SDK ([hub](https://github.com/kubeflow/hub), [sdk](https://github.com/kubeflow/sdk))
-- 📖 **Building [Sera](https://github.com/myesmin/SERA):** a reading companion that reads with you (in development, currently on voice intelligence)
+- 📖 **Building [Sera](https://github.com/myesmin/SERA):** a reading companion that reads a PDF aloud with word-synced highlighting — FastAPI + React/TypeScript, Postgres with pgvector, OCR, a queued TTS worker and streaming LLM answers, running on AWS (currently on voice intelligence)
 - 🏢 **Energy Data Manager at EN-POWER Group:** emissions models and LL97 compliance work for NYC buildings
 
 ## Tools I work with
@@ -24,4 +24,4 @@ I'm a Computer Science student at **Hunter College** (New York, NY) building mac
 
 - I studied Neuroscience & Behavior at Wesleyan, and the link between how brains learn and how models learn is what pulled me into ML.
 - I like turning many messy data sources into one answer I can defend, and making analysis useful to people who never open a notebook.
-- Open to roles in AI / ML / data / software engineering.
+- Open to roles in **applied AI / ML / data / software engineering**.
