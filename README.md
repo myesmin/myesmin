@@ -9,7 +9,7 @@ I'm a Computer Science student at **Hunter College** (New York, NY) building mac
 - 🔬 **Research Assistant at DAIR Lab:** graph neural networks for protein research
 - ☸️ **Kubeflow org member:** Python and Go contributions to the Model Registry and SDK ([hub](https://github.com/kubeflow/hub), [sdk](https://github.com/kubeflow/sdk))
 - 📖 **Building [Sera](https://github.com/myesmin/SERA):** a reading companion that reads with you (in development, currently on voice intelligence)
-- 🏢 Previously at **EN-POWER Group:** emissions models and LL97 compliance work for NYC buildings
+- 🏢 **Energy Data Manager at EN-POWER Group:** emissions models and LL97 compliance work for NYC buildings
 
 ## Tools I work with
 
