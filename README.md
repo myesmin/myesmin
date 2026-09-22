@@ -9,6 +9,7 @@ I build **applied AI and ML systems** in New York, NY — LLM applications, mode
 - 🔬 **Research Assistant at DAIR Lab:** graph neural networks for protein research
 - ☸️ **Kubeflow org member:** Python and Go contributions to the Model Registry and SDK ([hub](https://github.com/kubeflow/hub), [sdk](https://github.com/kubeflow/sdk))
 - 📖 **Building [Sera](https://github.com/myesmin/SERA):** a reading companion that reads a PDF aloud with word-synced highlighting — FastAPI + React/TypeScript, Postgres with pgvector, OCR, a queued TTS worker and streaming LLM answers, running on AWS (currently on voice intelligence)
+- 🛡️ **Building [ModSieve](https://github.com/myesmin/ModSieve-Reddit-Moderation-Triage):** a first-pass moderation tool that auto-resolves the Reddit posts it's sure about (22.5% at 99.2% precision) and sends the rest to a human
 - 🏢 **Energy Data Manager at EN-POWER Group:** emissions models and LL97 compliance work for NYC buildings
 
 ## Tools I work with
